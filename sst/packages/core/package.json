@@ -16,13 +16,13 @@
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "prettier": "^3.0.0",
-    "sst": "^2.21.0",
+    "sst": "^3.9.31",
     "vitest": "^0.33.0"
   },
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "drizzle-orm": "^0.27.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moment": "^2.29.4",
     "pg": "^8.11.1",
     "pg-hstore": "^2.3.4",
