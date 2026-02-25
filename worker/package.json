@@ -42,7 +42,7 @@
     "source-map-support": "0.5.19",
     "telegraf": "3.38.0",
     "ts-jest": "27.1.5",
-    "twilio": "4.7.2",
+    "twilio": "4.23.0",
     "validator": "13.7.0",
     "winston": "3.3.3"
   },
